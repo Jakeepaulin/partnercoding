@@ -1,0 +1,55 @@
+.logo {
+  max-height: 10vh;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.office {
+  width: 100%;
+  border-radius: 10%;
+}
+
+.AU {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.brandon {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.brandons-face {
+  border-radius: 100%;
+  height: 5rem;
+  width: 5rem;
+  border: white;
+}
+
+.he {
+  background-image: url(https://images.unsplash.com/photo-1557215402-cc3760485d95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8ZGFyayUyMG9mZmljZXx8MHx8fHwxNjI3MjAwMzQx&ixlib=rb-1.2.1&q=80&w=1080);
+  width: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.free {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mtm {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pb {
+  border: .25rem solid darkblue;
+}
